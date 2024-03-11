@@ -3,7 +3,7 @@ import React from 'react'
 function Child({choosemessage}) {
   return (
     <div>
-        <button onClick = {() => choosemessage("Good Bye")}>Click me</button>
+        <button onClick = {() => choosemessage("Good Byeechid")}>Click me</button>
     </div>
   )
 }
